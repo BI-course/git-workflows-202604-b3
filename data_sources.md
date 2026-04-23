@@ -1,4 +1,4 @@
-# Data Sources in Business Intelligence
+na# Data Sources in Business Intelligence
 
 ## 1. Introduction
 Data sources in Business Intelligence (BI) refer to the origins of raw data that organizations collect, process, and analyze to support decision-making. These sources provide the input for data pipelines, data warehouses, and analytical systems.
