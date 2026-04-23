@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-#Researchgit checkout - data sources
-#Introductionzz
+# I am learning git commands<<<<<<< HEAD
+
 =======
 # Research on Data Sources
 
