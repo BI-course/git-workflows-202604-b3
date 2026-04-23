@@ -127,7 +127,7 @@ git status
 You can configure the default commit message editor to be **VS Code** for better formatting of the commit message body. Run the following command:
 
 ```bash
-git config --global core.editor "code --wait"
+
 ```
 
 Once ready, stage and commit it:
