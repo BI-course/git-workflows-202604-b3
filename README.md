@@ -16,6 +16,7 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+<<<<<<< HEAD
 
 ## Group roles 
 ##  **Member 1:**(Bernard ) Update the project's README with team roles.
@@ -23,3 +24,6 @@ Refer to the files in the order specified below for more details:
 ## **Member 3:**(Jeannette) Create a `warehouse_schema.md` describing a Star Schema.
 ## **Member 4:**(Katanu & cindy) Create a `data_pipeline.md` differentiating between ETL, ELT, and EtLT in the context of compliance with the legal requirements in an industry.
 ## **Member 5:**(lydiah ) Add a `governance.md` file reviewing data governance and access to PII.
+=======
+Project lead: Member 4 - responsible for overall coordination.
+>>>>>>> main
