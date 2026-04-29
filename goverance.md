@@ -73,11 +73,11 @@ Example: Masking PII in a SQL view for analysts
 
 \`\`\`sql
 -- Create a secured view that masks PII for non-privileged users
-CREATE VIEW customer*analytics_secured AS
+CREATE VIEW customer\*analytics_secured AS
 SELECT
 customer_id,
 LEFT(email, 2) + '\*\**' + RIGHT(email, 5) as masked*email,
-LEFT(phone, 3) + '*\*\*-\*\*\*\*' as masked_phone,
+LEFT(phone, 3) + '\*\*\*-\*\*\*\*' as masked_phone,
 city_region as geography,
 age_range,
 purchase_history
